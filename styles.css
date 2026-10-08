@@ -1,6 +1,15 @@
 /* Your styles go here! */
 h1 {
+  background-color: bisque;
   /* Demo style -- remove me and write your own */
   font-size: 48px;
   color: palevioletred;
-
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+main {
+  max-width: 65;
+margin-inline: auto 
+} 
+img {
+  width: 200px;
+}
